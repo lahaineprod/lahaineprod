@@ -32,5 +32,6 @@
 ### :trophy: Достижения
 
 <div>  
-  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=lahaineprod" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lahaineprod" alt=""/>
+  
 </div>
