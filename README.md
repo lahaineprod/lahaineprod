@@ -20,7 +20,7 @@
 - :bald_man: Я лысый
 - :police_car: Хочу машину
 
-###  :hammer_and_wrench:
+###  :hammer_and_wrench: Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="50" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="50" height="40"/>
