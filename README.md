@@ -38,5 +38,5 @@
 ### :keyboard: Наиболее используемые языки :
 
 <div>  
-  <img src="https://github-readme-stats.vercel.app/api?username=lahaineprod" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahaineprod&layout=compact" alt=""/>
 </div>
