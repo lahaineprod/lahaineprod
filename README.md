@@ -29,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" height="40"/>
 </div>
 
-### :trpophy: Достижения:
+### :trophy: Достижения
 
 <div>  
   <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=lahaineprod" alt=""/>
