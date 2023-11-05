@@ -16,3 +16,6 @@
 </div>
 
 ### :man_technologist: Обо мне :
+- :speech_balloon: Я высокий
+- :bald_man: Я лысый
+- :police_car: Хочу машину
